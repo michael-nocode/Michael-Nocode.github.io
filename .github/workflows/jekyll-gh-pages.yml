@@ -51,8 +51,8 @@ jobs:
         id: deployment
         uses: actions/deploy-pages@v4
       - name: Setup Node.js environment
-            uses: actions/setup-node@v3.9.1
-            with:
+        uses: actions/setup-node@v3.9.1
+        with:
               # Set always-auth in npmrc.
               always-auth: # optional, default is false
               # Version Spec of the version to use. Examples: 12.x, 10.15.1, >=10.15.0.
