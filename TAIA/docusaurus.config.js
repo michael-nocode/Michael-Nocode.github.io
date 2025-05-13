@@ -23,7 +23,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'michael-nocode', // Usually your GitHub org/user name.
-  projectName: 'Taia Prompt Library', // Usually your repo name.
+  projectName: 'michael-nocode.github.io/', // Usually your repo name.
   deploymentBranch : 'gh-pages',
   trailingSlash: false,
   onBrokenLinks: 'throw',
