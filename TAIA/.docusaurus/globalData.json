@@ -1,0 +1,133 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Documentation/How to use",
+          "docs": [
+            {
+              "id": "Documentation/How to use",
+              "path": "/docs/Documentation/How to use",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Documentation/Usecase Template",
+              "path": "/docs/Documentation/Usecase Template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/intro",
+              "path": "/docs/Docusauruse/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/congratulations",
+              "path": "/docs/Docusauruse/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/create-a-blog-post",
+              "path": "/docs/Docusauruse/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/create-a-document",
+              "path": "/docs/Docusauruse/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/create-a-page",
+              "path": "/docs/Docusauruse/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/deploy-your-site",
+              "path": "/docs/Docusauruse/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/markdown-features",
+              "path": "/docs/Docusauruse/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-basics/sidebar",
+              "path": "/docs/Docusauruse/tutorial-basics/sidebar",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-extras/manage-docs-versions",
+              "path": "/docs/Docusauruse/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Docusauruse/tutorial-extras/translate-your-site",
+              "path": "/docs/Docusauruse/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UseCase/Analyse and improve test coverage",
+              "path": "/docs/UseCase/Analyse and improve test coverage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UseCase/Analyse test execution",
+              "path": "/docs/UseCase/Analyse test execution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UseCase/Generate a test case",
+              "path": "/docs/UseCase/Generate a test case",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UseCase/Generate and analyse User Stories",
+              "path": "/docs/UseCase/Generate and analyse User Stories",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "UseCase/Generate API Automated tested",
+              "path": "/docs/UseCase/Generate API Automated tested",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/documentation",
+              "path": "/docs/category/documentation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/usecase-ia-and-test",
+              "path": "/docs/category/usecase-ia-and-test",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basicss",
+              "path": "/docs/category/tutorial---basicss",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/category/documentation",
+                "label": "Documentation"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

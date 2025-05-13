@@ -1,0 +1,9 @@
+{
+  "type": "mdx",
+  "permalink": "/testing",
+  "source": "@site/src/pages/testing.md",
+  "title": "Titre",
+  "description": "Titre 2",
+  "frontMatter": {},
+  "unlisted": false
+}

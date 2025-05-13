@@ -1,0 +1,27 @@
+{
+  "id": "Docusauruse/tutorial-basics/create-a-blog-post",
+  "title": "Create a Blog Post",
+  "description": "Docusaurus creates a page for each blog post, but also a blog index page, a tag system, an RSS feed...",
+  "source": "@site/docs/Docusauruse/tutorial-basics/create-a-blog-post.md",
+  "sourceDirName": "Docusauruse/tutorial-basics",
+  "slug": "/Docusauruse/tutorial-basics/create-a-blog-post",
+  "permalink": "/docs/Docusauruse/tutorial-basics/create-a-blog-post",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Docusauruse/tutorial-basics/create-a-blog-post.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Hi!",
+    "permalink": "/docs/Docusauruse/tutorial-basics/sidebar"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/docs/Docusauruse/tutorial-basics/markdown-features"
+  }
+}

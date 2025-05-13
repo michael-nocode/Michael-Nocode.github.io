@@ -1,0 +1,27 @@
+{
+  "id": "Documentation/How to use",
+  "title": "How to use this documentation ?",
+  "description": "",
+  "source": "@site/docs/Documentation/How to use.md",
+  "sourceDirName": "Documentation",
+  "slug": "/Documentation/How to use",
+  "permalink": "/docs/Documentation/How to use",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Documentation/How to use.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/docs/category/documentation"
+  },
+  "next": {
+    "title": "UseCase Template",
+    "permalink": "/docs/Documentation/Usecase Template"
+  }
+}

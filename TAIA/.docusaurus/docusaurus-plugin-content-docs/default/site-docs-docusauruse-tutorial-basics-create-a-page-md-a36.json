@@ -1,0 +1,27 @@
+{
+  "id": "Docusauruse/tutorial-basics/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/Docusauruse/tutorial-basics/create-a-page.md",
+  "sourceDirName": "Docusauruse/tutorial-basics",
+  "slug": "/Docusauruse/tutorial-basics/create-a-page",
+  "permalink": "/docs/Docusauruse/tutorial-basics/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Docusauruse/tutorial-basics/create-a-page.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Basicss",
+    "permalink": "/docs/category/tutorial---basicss"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/docs/Docusauruse/tutorial-basics/create-a-document"
+  }
+}

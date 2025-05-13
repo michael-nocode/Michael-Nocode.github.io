@@ -1,0 +1,24 @@
+{
+  "id": "UseCase/Generate a test case copy",
+  "title": "Generate a Test case from user Stories",
+  "description": "",
+  "source": "@site/docs/UseCase/Generate a test case copy.md",
+  "sourceDirName": "UseCase",
+  "slug": "/UseCase/Generate a test case copy",
+  "permalink": "/docs/UseCase/Generate a test case copy",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/UseCase/Generate a test case copy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate a Test case from user Stories",
+    "permalink": "/docs/UseCase/Generate a test case copy 4"
+  },
+  "next": {
+    "title": "Generate a Test case from user Stories",
+    "permalink": "/docs/UseCase/Generate a test case"
+  }
+}

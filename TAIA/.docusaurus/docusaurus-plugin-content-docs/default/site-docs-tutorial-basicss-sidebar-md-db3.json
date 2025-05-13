@@ -1,0 +1,28 @@
+{
+  "id": "tutorial-basicss/sidebar",
+  "title": "sidebar",
+  "description": "",
+  "source": "@site/docs/tutorial-basicss/sidebar.md",
+  "sourceDirName": "tutorial-basicss",
+  "slug": "/tutorial-basicss/sidebar",
+  "permalink": "/docs/tutorial-basicss/sidebar",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/tutorial-basicss/sidebar.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_label": "Hi!",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/docs/tutorial-basicss/create-a-document"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/docs/tutorial-basicss/create-a-blog-post"
+  }
+}

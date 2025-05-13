@@ -1,0 +1,27 @@
+{
+  "id": "UseCase/Analyse test execution",
+  "title": "Analyse test execution",
+  "description": "",
+  "source": "@site/docs/UseCase/Analyse test execution.md",
+  "sourceDirName": "UseCase",
+  "slug": "/UseCase/Analyse test execution",
+  "permalink": "/docs/UseCase/Analyse test execution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/UseCase/Analyse test execution.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate API Automated tested",
+    "permalink": "/docs/UseCase/Generate API Automated tested"
+  },
+  "next": {
+    "title": "Tutorial Intro",
+    "permalink": "/docs/Docusauruse/intro"
+  }
+}

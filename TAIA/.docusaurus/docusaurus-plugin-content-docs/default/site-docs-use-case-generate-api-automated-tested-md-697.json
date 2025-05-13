@@ -1,0 +1,27 @@
+{
+  "id": "UseCase/Generate API Automated tested",
+  "title": "Generate API Automated tested",
+  "description": "",
+  "source": "@site/docs/UseCase/Generate API Automated tested.md",
+  "sourceDirName": "UseCase",
+  "slug": "/UseCase/Generate API Automated tested",
+  "permalink": "/docs/UseCase/Generate API Automated tested",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/UseCase/Generate API Automated tested.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Analyse and improve test coverage",
+    "permalink": "/docs/UseCase/Analyse and improve test coverage"
+  },
+  "next": {
+    "title": "Analyse test execution",
+    "permalink": "/docs/UseCase/Analyse test execution"
+  }
+}

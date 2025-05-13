@@ -1,0 +1,27 @@
+{
+  "id": "Documentation/Usecase Template",
+  "title": "UseCase Template",
+  "description": "Use this template to create a Usecase file",
+  "source": "@site/docs/Documentation/Usecase Template.md",
+  "sourceDirName": "Documentation",
+  "slug": "/Documentation/Usecase Template",
+  "permalink": "/docs/Documentation/Usecase Template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Documentation/Usecase Template.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to use this documentation ?",
+    "permalink": "/docs/Documentation/How to use"
+  },
+  "next": {
+    "title": "UseCase IA and Test",
+    "permalink": "/docs/category/usecase-ia-and-test"
+  }
+}
