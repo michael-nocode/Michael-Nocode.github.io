@@ -256,17 +256,17 @@
     },
     "content": "content---testing-43-e-459"
   },
-  "/docs-a8d": {
+  "/docs-dfd": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-f89": {
+  "/docs-d27": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-326": {
+  "/docs-cae": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/category/documentation-275": {
@@ -288,6 +288,10 @@
   "/docs/Documentation/How to use-21c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-documentation-how-to-useb-61-44b"
+  },
+  "/docs/Documentation/Prompt Task Template-476": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-documentation-prompt-task-template-6-d-3-735"
   },
   "/docs/Documentation/Usecase Template-b5d": {
     "__comp": "__comp---theme-doc-item-178-a40",

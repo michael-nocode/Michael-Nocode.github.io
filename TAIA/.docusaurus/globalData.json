@@ -16,6 +16,11 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Documentation/Prompt Task Template",
+              "path": "/docs/Documentation/Prompt Task Template",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Documentation/Usecase Template",
               "path": "/docs/Documentation/Usecase Template",
               "sidebar": "tutorialSidebar"

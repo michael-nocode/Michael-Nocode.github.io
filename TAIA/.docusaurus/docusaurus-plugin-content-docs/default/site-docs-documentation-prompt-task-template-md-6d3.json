@@ -1,0 +1,24 @@
+{
+  "id": "Documentation/Prompt Task Template",
+  "title": "Prompt Task Template",
+  "description": "",
+  "source": "@site/docs/Documentation/Prompt Task Template.md",
+  "sourceDirName": "Documentation",
+  "slug": "/Documentation/Prompt Task Template",
+  "permalink": "/docs/Documentation/Prompt Task Template",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Documentation/Prompt Task Template.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "UseCase Template",
+    "permalink": "/docs/Documentation/Usecase Template"
+  },
+  "next": {
+    "title": "UseCase IA and Test",
+    "permalink": "/docs/category/usecase-ia-and-test"
+  }
+}

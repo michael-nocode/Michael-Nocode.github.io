@@ -119,15 +119,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a8d'),
+    component: ComponentCreator('/docs', 'dfd'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'f89'),
+        component: ComponentCreator('/docs', 'd27'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '326'),
+            component: ComponentCreator('/docs', 'cae'),
             routes: [
               {
                 path: '/docs/category/documentation',
@@ -156,6 +156,12 @@ export default [
               {
                 path: '/docs/Documentation/How to use',
                 component: ComponentCreator('/docs/Documentation/How to use', '21c'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Documentation/Prompt Task Template',
+                component: ComponentCreator('/docs/Documentation/Prompt Task Template', '476'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
