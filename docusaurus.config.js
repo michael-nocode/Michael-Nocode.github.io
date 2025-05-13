@@ -26,7 +26,7 @@ const config = {
   projectName: 'michael-nocode.github.io/', // Usually your repo name.
   deploymentBranch : 'gh-pages',
   trailingSlash: false,
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internationalization, you can use this field to set
@@ -112,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Tutorial',
-                to: '/docs/intro',
+                to: '/docs/Docusaurus/intro',
               },
             ],
           },

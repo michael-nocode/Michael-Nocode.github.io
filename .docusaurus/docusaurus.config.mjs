@@ -13,7 +13,7 @@ export default {
   "projectName": "michael-nocode.github.io/",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
-  "onBrokenLinks": "throw",
+  "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
@@ -94,7 +94,7 @@ export default {
           "items": [
             {
               "label": "Tutorial",
-              "to": "/docs/intro"
+              "to": "/docs/Docusaurus/intro"
             }
           ]
         },

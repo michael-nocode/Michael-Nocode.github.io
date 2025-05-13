@@ -1,0 +1,27 @@
+{
+  "id": "Docusaurus/tutorial-extras/manage-docs-versions",
+  "title": "Manage Docs Versions",
+  "description": "Docusaurus can manage multiple versions of your docs.",
+  "source": "@site/docs/Docusaurus/tutorial-extras/manage-docs-versions.md",
+  "sourceDirName": "Docusaurus/tutorial-extras",
+  "slug": "/Docusaurus/tutorial-extras/manage-docs-versions",
+  "permalink": "/docs/Docusaurus/tutorial-extras/manage-docs-versions",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Docusaurus/tutorial-extras/manage-docs-versions.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Tutorial - Extras",
+    "permalink": "/docs/category/tutorial---extras"
+  },
+  "next": {
+    "title": "Translate your site",
+    "permalink": "/docs/Docusaurus/tutorial-extras/translate-your-site"
+  }
+}

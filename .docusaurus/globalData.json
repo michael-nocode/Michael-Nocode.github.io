@@ -26,53 +26,53 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/intro",
-              "path": "/docs/Docusauruse/intro",
+              "id": "Docusaurus/intro",
+              "path": "/docs/Docusaurus/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/congratulations",
-              "path": "/docs/Docusauruse/tutorial-basics/congratulations",
+              "id": "Docusaurus/tutorial-basics/congratulations",
+              "path": "/docs/Docusaurus/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/create-a-blog-post",
-              "path": "/docs/Docusauruse/tutorial-basics/create-a-blog-post",
+              "id": "Docusaurus/tutorial-basics/create-a-blog-post",
+              "path": "/docs/Docusaurus/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/create-a-document",
-              "path": "/docs/Docusauruse/tutorial-basics/create-a-document",
+              "id": "Docusaurus/tutorial-basics/create-a-document",
+              "path": "/docs/Docusaurus/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/create-a-page",
-              "path": "/docs/Docusauruse/tutorial-basics/create-a-page",
+              "id": "Docusaurus/tutorial-basics/create-a-page",
+              "path": "/docs/Docusaurus/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/deploy-your-site",
-              "path": "/docs/Docusauruse/tutorial-basics/deploy-your-site",
+              "id": "Docusaurus/tutorial-basics/deploy-your-site",
+              "path": "/docs/Docusaurus/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/markdown-features",
-              "path": "/docs/Docusauruse/tutorial-basics/markdown-features",
+              "id": "Docusaurus/tutorial-basics/markdown-features",
+              "path": "/docs/Docusaurus/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-basics/sidebar",
-              "path": "/docs/Docusauruse/tutorial-basics/sidebar",
+              "id": "Docusaurus/tutorial-basics/sidebar",
+              "path": "/docs/Docusaurus/tutorial-basics/sidebar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-extras/manage-docs-versions",
-              "path": "/docs/Docusauruse/tutorial-extras/manage-docs-versions",
+              "id": "Docusaurus/tutorial-extras/manage-docs-versions",
+              "path": "/docs/Docusaurus/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusauruse/tutorial-extras/translate-your-site",
-              "path": "/docs/Docusauruse/tutorial-extras/translate-your-site",
+              "id": "Docusaurus/tutorial-extras/translate-your-site",
+              "path": "/docs/Docusaurus/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
