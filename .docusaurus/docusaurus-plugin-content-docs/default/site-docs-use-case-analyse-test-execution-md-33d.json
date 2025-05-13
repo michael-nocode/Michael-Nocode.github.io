@@ -8,7 +8,7 @@
   "permalink": "/docs/UseCase/Analyse test execution",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/UseCase/Analyse test execution.md",
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/UseCase/Analyse test execution.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 5,

@@ -8,7 +8,7 @@
   "permalink": "/docs/UseCase/Generate API Automated tested",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/UseCase/Generate API Automated tested.md",
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/UseCase/Generate API Automated tested.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 4,

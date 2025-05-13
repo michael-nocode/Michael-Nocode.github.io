@@ -8,7 +8,7 @@
   "permalink": "/docs/UseCase/Generate and analyse User Stories",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/UseCase/Generate and analyse User Stories.md",
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/UseCase/Generate and analyse User Stories.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,

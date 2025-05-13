@@ -8,7 +8,7 @@
   "permalink": "/docs/Docusauruse/tutorial-extras/manage-docs-versions",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Docusauruse/tutorial-extras/manage-docs-versions.md",
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Docusauruse/tutorial-extras/manage-docs-versions.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,

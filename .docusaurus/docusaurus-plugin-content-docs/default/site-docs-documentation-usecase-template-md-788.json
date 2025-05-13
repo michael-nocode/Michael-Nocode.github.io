@@ -8,7 +8,7 @@
   "permalink": "/docs/Documentation/Usecase Template",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Documentation/Usecase Template.md",
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Documentation/Usecase Template.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,

@@ -7,10 +7,12 @@ export default {
   "title": "TAIA",
   "tagline": "Groupe de travail du CFTL sur l'IA et le test",
   "favicon": "img/favicon.ico",
-  "url": "https://your-docusaurus-site.example.com",
+  "url": "https://michael-nocode.github.io",
   "baseUrl": "/",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "michael-nocode",
+  "projectName": "michael-nocode.github.io/",
+  "deploymentBranch": "gh-pages",
+  "trailingSlash": false,
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
@@ -27,7 +29,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/"
+          "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -38,7 +40,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/",
+          "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -77,7 +79,7 @@ export default {
           "position": "left"
         },
         {
-          "href": "https://github.com/Michael-Nocode/TAIA",
+          "href": "https://github.com/${organizationName}/${projectName}",
           "label": "GitHub",
           "position": "right"
         }
@@ -122,7 +124,7 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/facebook/docusaurus"
+              "href": "https://github.com/${organizationName}/${projectName}"
             }
           ]
         }

@@ -8,7 +8,7 @@
   "permalink": "/docs/Docusauruse/tutorial-basics/congratulations",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/Michael-Nocode/TAIA/tree/main/docs/Docusauruse/tutorial-basics/congratulations.md",
+  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Docusauruse/tutorial-basics/congratulations.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 6,
