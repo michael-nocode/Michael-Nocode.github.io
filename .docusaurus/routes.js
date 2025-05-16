@@ -3,6 +3,41 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 
 export default [
   {
+    path: '/__docusaurus/debug',
+    component: ComponentCreator('/__docusaurus/debug', '5ff'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/config',
+    component: ComponentCreator('/__docusaurus/debug/config', '5ba'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/content',
+    component: ComponentCreator('/__docusaurus/debug/content', 'a2b'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/globalData',
+    component: ComponentCreator('/__docusaurus/debug/globalData', 'c3c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/metadata',
+    component: ComponentCreator('/__docusaurus/debug/metadata', '156'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/registry',
+    component: ComponentCreator('/__docusaurus/debug/registry', '88c'),
+    exact: true
+  },
+  {
+    path: '/__docusaurus/debug/routes',
+    component: ComponentCreator('/__docusaurus/debug/routes', '000'),
+    exact: true
+  },
+  {
     path: '/blog',
     component: ComponentCreator('/blog', 'b2f'),
     exact: true
@@ -78,25 +113,74 @@ export default [
     exact: true
   },
   {
-    path: '/testing',
-    component: ComponentCreator('/testing', '2b2'),
-    exact: true
-  },
-  {
     path: '/docs',
-    component: ComponentCreator('/docs', '83b'),
+    component: ComponentCreator('/docs', 'a0a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'dd0'),
+        component: ComponentCreator('/docs', 'd83'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '246'),
+            component: ComponentCreator('/docs', '5ea'),
             routes: [
+              {
+                path: '/docs/Activités/Analyse des tests/Analyse and improve test coverage',
+                component: ComponentCreator('/docs/Activités/Analyse des tests/Analyse and improve test coverage', '8fb'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Activités/Analyse des tests/Generate and analyse User Stories',
+                component: ComponentCreator('/docs/Activités/Analyse des tests/Generate and analyse User Stories', '98b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Activités/Conception/Generate a test case',
+                component: ComponentCreator('/docs/Activités/Conception/Generate a test case', 'c34'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Activités/Conception/Generate API Automated tested',
+                component: ComponentCreator('/docs/Activités/Conception/Generate API Automated tested', '84b'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Activités/Execution/Analyse test execution',
+                component: ComponentCreator('/docs/Activités/Execution/Analyse test execution', '7f1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/activités',
+                component: ComponentCreator('/docs/category/activités', 'b7d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/analyse',
+                component: ComponentCreator('/docs/category/analyse', '244'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/conception',
+                component: ComponentCreator('/docs/category/conception', 'b55'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
               {
                 path: '/docs/category/documentation',
                 component: ComponentCreator('/docs/category/documentation', '275'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/exécution',
+                component: ComponentCreator('/docs/category/exécution', 'f72'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -113,116 +197,80 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/category/usecase-ia-and-test',
-                component: ComponentCreator('/docs/category/usecase-ia-and-test', '73f'),
+                path: '/docs/Documentation/Comment créer une fiche',
+                component: ComponentCreator('/docs/Documentation/Comment créer une fiche', 'ed6'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Documentation/How to use',
-                component: ComponentCreator('/docs/Documentation/How to use', '21c'),
+                path: '/docs/Documentation/Docusaurus/intro',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/intro', '59b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Documentation/Prompt Task Template',
-                component: ComponentCreator('/docs/Documentation/Prompt Task Template', '476'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/congratulations',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/congratulations', '5ba'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Documentation/Usecase Template',
-                component: ComponentCreator('/docs/Documentation/Usecase Template', 'b5d'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/create-a-blog-post',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/create-a-blog-post', 'c12'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/intro',
-                component: ComponentCreator('/docs/Docusaurus/intro', '3ad'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/create-a-document',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/create-a-document', 'afa'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/congratulations',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/congratulations', '8bb'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/create-a-page',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/create-a-page', 'f62'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/create-a-blog-post',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/create-a-blog-post', '8f6'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/deploy-your-site',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/deploy-your-site', '43e'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/create-a-document',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/create-a-document', 'f27'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/markdown-features',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/markdown-features', '544'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/create-a-page',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/create-a-page', '3ab'),
+                path: '/docs/Documentation/Docusaurus/tutorial-basics/sidebar',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-basics/sidebar', 'fea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/deploy-your-site',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/deploy-your-site', '4ac'),
+                path: '/docs/Documentation/Docusaurus/tutorial-extras/manage-docs-versions',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-extras/manage-docs-versions', '60a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/markdown-features',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/markdown-features', '5f1'),
+                path: '/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site',
+                component: ComponentCreator('/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site', '92d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-basics/sidebar',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-basics/sidebar', 'c0b'),
+                path: '/docs/Documentation/Template cas usage',
+                component: ComponentCreator('/docs/Documentation/Template cas usage', 'b7d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Docusaurus/tutorial-extras/manage-docs-versions',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-extras/manage-docs-versions', 'df7'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/Docusaurus/tutorial-extras/translate-your-site',
-                component: ComponentCreator('/docs/Docusaurus/tutorial-extras/translate-your-site', '603'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/UseCase/Analyse and improve test coverage',
-                component: ComponentCreator('/docs/UseCase/Analyse and improve test coverage', '755'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/UseCase/Analyse test execution',
-                component: ComponentCreator('/docs/UseCase/Analyse test execution', 'f7e'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/UseCase/Generate a test case',
-                component: ComponentCreator('/docs/UseCase/Generate a test case', 'd8c'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/UseCase/Generate and analyse User Stories',
-                component: ComponentCreator('/docs/UseCase/Generate and analyse User Stories', 'a8a'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/UseCase/Generate API Automated tested',
-                component: ComponentCreator('/docs/UseCase/Generate API Automated tested', '60a'),
+                path: '/docs/Documentation/Template Tache de prompt',
+                component: ComponentCreator('/docs/Documentation/Template Tache de prompt', 'a20'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

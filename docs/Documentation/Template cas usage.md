@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# UseCase Template
+# Template cas d'usage
 Use this template to create a Usecase file
 
 # TITLE

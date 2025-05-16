@@ -8,7 +8,7 @@
   "permalink": "/docs/Documentation/How to use",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Documentation/How to use.md",
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Documentation/How to use.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -22,6 +22,6 @@
   },
   "next": {
     "title": "UseCase Template",
-    "permalink": "/docs/Documentation/Usecase Template"
+    "permalink": "/docs/Documentation/Templace cas usage"
   }
 }

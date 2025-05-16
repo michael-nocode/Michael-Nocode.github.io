@@ -1,0 +1,27 @@
+{
+  "id": "Activité de test/Conception/Generate API Automated tested",
+  "title": "Generate API Automated tested",
+  "description": "ceci est un test",
+  "source": "@site/docs/Activité de test/04 - Conception/Generate API Automated tested.md",
+  "sourceDirName": "Activité de test/04 - Conception",
+  "slug": "/Activité de test/Conception/Generate API Automated tested",
+  "permalink": "/docs/Activité de test/Conception/Generate API Automated tested",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Activité de test/04 - Conception/Generate API Automated tested.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate a Test case from user Stories",
+    "permalink": "/docs/Activité de test/Conception/Generate a test case"
+  },
+  "next": {
+    "title": "Analyse test execution",
+    "permalink": "/docs/Activité de test/Execution/Analyse test execution"
+  }
+}

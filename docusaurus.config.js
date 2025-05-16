@@ -8,6 +8,9 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+const  organizationName = "michael-nocode"; // Usually your GitHub org/user name.
+const  projectName = "michael-nocode.github.io"; // Usually your repo name.
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'TAIA',
@@ -15,15 +18,15 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://michael-nocode.github.io',
+  url: 'https://'+organizationName+'+.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'michael-nocode', // Usually your GitHub org/user name.
-  projectName: 'michael-nocode.github.io/', // Usually your repo name.
+  organizationName, // Usually your GitHub org/user name.
+  projectName, // Usually your repo name.
   deploymentBranch : 'gh-pages',
   trailingSlash: false,
   onBrokenLinks: 'warn',
@@ -33,8 +36,8 @@ const config = {
   // useful metadata like html lang. For example, if your site is Chinese, you
   // may want to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
+    defaultLocale: 'fr-FR',
+    locales: ['fr-FR'],
   },
 
   presets: [
@@ -47,7 +50,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/${organizationName}/${projectName}/tree/main/',
+            'https://github.com/'+projectName+'/tree/main/',
         },
         blog: {
           showReadingTime: true,
@@ -58,7 +61,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/${organizationName}/${projectName}/tree/main/',
+            'https://github.com/'+projectName+'/tree/main/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -77,10 +80,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: 'TAIA - IA and Test',
+        title: 'TAIA - Utilisation de l\'IA dans le Test',
         logo: {
-          alt: 'TAIA - IA and Test',
-          src: 'img/logo.svg',
+          alt: 'IA dans le test Test',
+          src: 'img/logo.png',
         },
         items: [
           {
@@ -90,18 +93,17 @@ const config = {
             label: 'Documentation',
           },          
           {
-            type: 'docSidebar',
+            to: '/docs/category/Activités',
             sidebarId: 'tutorialSidebar',
+            label: 'Activités de test',
             position: 'left',
-            label: 'Usecase Card',
-            href: "/docs/category/usecase-ia-and-test"
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          /*{to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/${organizationName}/${projectName}',
+            href: 'https://github.com/${organizationName}',
             label: 'GitHub',
             position: 'right',
-          },
+          },*/
         ],
       },
       footer: {
@@ -142,12 +144,12 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/${organizationName}/${projectName}',
+                href: 'https://github.com/'+organizationName,
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} CFTL - Groupe de Travail du test avec l'IA (TAIA), Généré avec Docusaurus.`,
       },
       prism: {
         theme: prismThemes.github,

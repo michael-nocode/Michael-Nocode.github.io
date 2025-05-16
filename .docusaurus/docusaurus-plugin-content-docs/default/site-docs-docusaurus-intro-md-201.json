@@ -8,7 +8,7 @@
   "permalink": "/docs/Docusaurus/intro",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Docusaurus/intro.md",
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Docusaurus/intro.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 1,
@@ -18,7 +18,7 @@
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "Analyse test execution",
-    "permalink": "/docs/UseCase/Analyse test execution"
+    "permalink": "/docs/Execution/Analyse test execution"
   },
   "next": {
     "title": "Tutorial - Basicss",

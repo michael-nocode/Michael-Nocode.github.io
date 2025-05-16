@@ -1,0 +1,27 @@
+{
+  "id": "Documentation/Docusaurus/tutorial-extras/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site.md",
+  "sourceDirName": "Documentation/Docusaurus/tutorial-extras",
+  "slug": "/Documentation/Docusaurus/tutorial-extras/translate-your-site",
+  "permalink": "/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/docs/Documentation/Docusaurus/tutorial-extras/manage-docs-versions"
+  },
+  "next": {
+    "title": "Activités",
+    "permalink": "/docs/category/activités"
+  }
+}

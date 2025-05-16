@@ -12,8 +12,8 @@ Utiliser l'IA générative pour transformer automatiquement des User Stories exp
 - Faible réutilisation des cas d’utilisation pour les tests automatisés ou manuels.
 
 ## Groupe d’activité de test ISTQB
-- Analyse et conception des tests
-- Implémentation et exécution des tests
+- *Conception des tests*
+- exécution des tests
 
 ## Types de tests
 - Tests fonctionnels

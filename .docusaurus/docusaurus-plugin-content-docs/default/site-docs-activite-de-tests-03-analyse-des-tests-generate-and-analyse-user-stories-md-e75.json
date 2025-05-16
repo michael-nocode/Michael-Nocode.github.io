@@ -1,0 +1,27 @@
+{
+  "id": "Activité de tests/Analyse des tests/Generate and analyse User Stories",
+  "title": "Generate and analyse User Stories",
+  "description": "",
+  "source": "@site/docs/Activité de tests/03 - Analyse des tests/Generate and analyse User Stories.md",
+  "sourceDirName": "Activité de tests/03 - Analyse des tests",
+  "slug": "/Activité de tests/Analyse des tests/Generate and analyse User Stories",
+  "permalink": "/docs/Activité de tests/Analyse des tests/Generate and analyse User Stories",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Activité de tests/03 - Analyse des tests/Generate and analyse User Stories.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/docs/category/documentation-1"
+  },
+  "next": {
+    "title": "Analyse and improve test coverage",
+    "permalink": "/docs/Activité de tests/Analyse des tests/Analyse and improve test coverage"
+  }
+}

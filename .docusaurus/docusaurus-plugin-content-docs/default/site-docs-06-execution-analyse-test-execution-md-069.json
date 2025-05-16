@@ -1,0 +1,27 @@
+{
+  "id": "Execution/Analyse test execution",
+  "title": "Analyse test execution",
+  "description": "Test test",
+  "source": "@site/docs/06 - Execution/Analyse test execution.md",
+  "sourceDirName": "06 - Execution",
+  "slug": "/Execution/Analyse test execution",
+  "permalink": "/docs/Execution/Analyse test execution",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/06 - Execution/Analyse test execution.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "Generate and analyse User Stories",
+    "permalink": "/docs/Activité de test/Analyse des tests/Generate and analyse User Stories"
+  }
+}

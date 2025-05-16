@@ -1,0 +1,27 @@
+{
+  "id": "Documentation/Docusaurus/tutorial-basics/create-a-document",
+  "title": "Create a Document",
+  "description": "Documents are groups of pages connected through:",
+  "source": "@site/docs/Documentation/Docusaurus/tutorial-basics/create-a-document.md",
+  "sourceDirName": "Documentation/Docusaurus/tutorial-basics",
+  "slug": "/Documentation/Docusaurus/tutorial-basics/create-a-document",
+  "permalink": "/docs/Documentation/Docusaurus/tutorial-basics/create-a-document",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Documentation/Docusaurus/tutorial-basics/create-a-document.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Page",
+    "permalink": "/docs/Documentation/Docusaurus/tutorial-basics/create-a-page"
+  },
+  "next": {
+    "title": "Hi!",
+    "permalink": "/docs/Documentation/Docusaurus/tutorial-basics/sidebar"
+  }
+}

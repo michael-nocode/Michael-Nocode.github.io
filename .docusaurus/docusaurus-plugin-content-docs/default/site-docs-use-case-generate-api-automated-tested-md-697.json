@@ -1,7 +1,7 @@
 {
   "id": "UseCase/Generate API Automated tested",
   "title": "Generate API Automated tested",
-  "description": "",
+  "description": "ceci est un test",
   "source": "@site/docs/UseCase/Generate API Automated tested.md",
   "sourceDirName": "UseCase",
   "slug": "/UseCase/Generate API Automated tested",
@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Analyse and improve test coverage",
-    "permalink": "/docs/UseCase/Analyse and improve test coverage"
+    "title": "Generate and analyse User Stories",
+    "permalink": "/docs/UseCase/Generate and analyse User Stories"
   },
   "next": {
-    "title": "Analyse test execution",
-    "permalink": "/docs/UseCase/Analyse test execution"
+    "title": "Analyse and improve test coverage",
+    "permalink": "/docs/Analyse des tests/Analyse and improve test coverage"
   }
 }

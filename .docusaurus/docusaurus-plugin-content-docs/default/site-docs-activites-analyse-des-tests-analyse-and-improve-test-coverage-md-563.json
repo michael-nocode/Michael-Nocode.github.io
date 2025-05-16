@@ -1,0 +1,27 @@
+{
+  "id": "Activités/Analyse des tests/Analyse and improve test coverage",
+  "title": "Analyse and improve test coverage",
+  "description": "",
+  "source": "@site/docs/Activités/Analyse des tests/Analyse and improve test coverage.md",
+  "sourceDirName": "Activités/Analyse des tests",
+  "slug": "/Activités/Analyse des tests/Analyse and improve test coverage",
+  "permalink": "/docs/Activités/Analyse des tests/Analyse and improve test coverage",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Activités/Analyse des tests/Analyse and improve test coverage.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generate and analyse User Stories",
+    "permalink": "/docs/Activités/Analyse des tests/Generate and analyse User Stories"
+  },
+  "next": {
+    "title": "Conception",
+    "permalink": "/docs/category/conception"
+  }
+}

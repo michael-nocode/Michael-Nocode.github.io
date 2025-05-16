@@ -7,18 +7,18 @@ export default {
   "title": "TAIA",
   "tagline": "Groupe de travail du CFTL sur l'IA et le test",
   "favicon": "img/favicon.ico",
-  "url": "https://michael-nocode.github.io",
+  "url": "https://michael-nocode+.github.io",
   "baseUrl": "/",
   "organizationName": "michael-nocode",
-  "projectName": "michael-nocode.github.io/",
+  "projectName": "michael-nocode.github.io",
   "deploymentBranch": "gh-pages",
   "trailingSlash": false,
   "onBrokenLinks": "warn",
   "onBrokenMarkdownLinks": "warn",
   "i18n": {
-    "defaultLocale": "en",
+    "defaultLocale": "fr-FR",
     "locales": [
-      "en"
+      "fr-FR"
     ],
     "path": "i18n",
     "localeConfigs": {}
@@ -29,7 +29,7 @@ export default {
       {
         "docs": {
           "sidebarPath": "./sidebars.js",
-          "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/"
+          "editUrl": "https://github.com/michael-nocode.github.io/tree/main/"
         },
         "blog": {
           "showReadingTime": true,
@@ -40,7 +40,7 @@ export default {
             ],
             "xslt": true
           },
-          "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/",
+          "editUrl": "https://github.com/michael-nocode.github.io/tree/main/",
           "onInlineTags": "warn",
           "onInlineAuthors": "warn",
           "onUntruncatedBlogPosts": "warn"
@@ -54,10 +54,10 @@ export default {
   "themeConfig": {
     "image": "img/docusaurus-social-card.jpg",
     "navbar": {
-      "title": "TAIA - IA and Test",
+      "title": "TAIA - Utilisation de l'IA dans le Test",
       "logo": {
-        "alt": "TAIA - IA and Test",
-        "src": "img/logo.svg"
+        "alt": "IA dans le test Test",
+        "src": "img/logo.png"
       },
       "items": [
         {
@@ -67,21 +67,10 @@ export default {
           "label": "Documentation"
         },
         {
-          "type": "docSidebar",
+          "to": "/docs/category/Activités",
           "sidebarId": "tutorialSidebar",
-          "position": "left",
-          "label": "Usecase Card",
-          "href": "/docs/category/usecase-ia-and-test"
-        },
-        {
-          "to": "/blog",
-          "label": "Blog",
+          "label": "Activités de test",
           "position": "left"
-        },
-        {
-          "href": "https://github.com/${organizationName}/${projectName}",
-          "label": "GitHub",
-          "position": "right"
         }
       ],
       "hideOnScroll": false
@@ -124,12 +113,12 @@ export default {
             },
             {
               "label": "GitHub",
-              "href": "https://github.com/${organizationName}/${projectName}"
+              "href": "https://github.com/michael-nocode"
             }
           ]
         }
       ],
-      "copyright": "Copyright © 2025 My Project, Inc. Built with Docusaurus."
+      "copyright": "Copyright © 2025 CFTL - Groupe de Travail du test avec l'IA (TAIA), Généré avec Docusaurus."
     },
     "prism": {
       "theme": {

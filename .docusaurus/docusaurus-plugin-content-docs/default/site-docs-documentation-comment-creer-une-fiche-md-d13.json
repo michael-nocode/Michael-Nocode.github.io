@@ -1,0 +1,27 @@
+{
+  "id": "Documentation/Comment créer une fiche",
+  "title": "Comment créer une fiche ?",
+  "description": "",
+  "source": "@site/docs/Documentation/Comment créer une fiche.md",
+  "sourceDirName": "Documentation",
+  "slug": "/Documentation/Comment créer une fiche",
+  "permalink": "/docs/Documentation/Comment créer une fiche",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Documentation/Comment créer une fiche.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Documentation",
+    "permalink": "/docs/category/documentation"
+  },
+  "next": {
+    "title": "Template cas d'usage",
+    "permalink": "/docs/Documentation/Template cas usage"
+  }
+}

@@ -8,106 +8,101 @@
           "label": "Next",
           "isLast": true,
           "path": "/docs",
-          "mainDocId": "Documentation/How to use",
+          "mainDocId": "Documentation/Comment créer une fiche",
           "docs": [
             {
-              "id": "Documentation/How to use",
-              "path": "/docs/Documentation/How to use",
+              "id": "Activités/Analyse des tests/Analyse and improve test coverage",
+              "path": "/docs/Activités/Analyse des tests/Analyse and improve test coverage",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Documentation/Prompt Task Template",
-              "path": "/docs/Documentation/Prompt Task Template",
+              "id": "Activités/Analyse des tests/Generate and analyse User Stories",
+              "path": "/docs/Activités/Analyse des tests/Generate and analyse User Stories",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Documentation/Usecase Template",
-              "path": "/docs/Documentation/Usecase Template",
+              "id": "Activités/Conception/Generate a test case",
+              "path": "/docs/Activités/Conception/Generate a test case",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/intro",
-              "path": "/docs/Docusaurus/intro",
+              "id": "Activités/Conception/Generate API Automated tested",
+              "path": "/docs/Activités/Conception/Generate API Automated tested",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/congratulations",
-              "path": "/docs/Docusaurus/tutorial-basics/congratulations",
+              "id": "Activités/Execution/Analyse test execution",
+              "path": "/docs/Activités/Execution/Analyse test execution",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/create-a-blog-post",
-              "path": "/docs/Docusaurus/tutorial-basics/create-a-blog-post",
+              "id": "Documentation/Comment créer une fiche",
+              "path": "/docs/Documentation/Comment créer une fiche",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/create-a-document",
-              "path": "/docs/Docusaurus/tutorial-basics/create-a-document",
+              "id": "Documentation/Docusaurus/intro",
+              "path": "/docs/Documentation/Docusaurus/intro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/create-a-page",
-              "path": "/docs/Docusaurus/tutorial-basics/create-a-page",
+              "id": "Documentation/Docusaurus/tutorial-basics/congratulations",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/congratulations",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/deploy-your-site",
-              "path": "/docs/Docusaurus/tutorial-basics/deploy-your-site",
+              "id": "Documentation/Docusaurus/tutorial-basics/create-a-blog-post",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/create-a-blog-post",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/markdown-features",
-              "path": "/docs/Docusaurus/tutorial-basics/markdown-features",
+              "id": "Documentation/Docusaurus/tutorial-basics/create-a-document",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/create-a-document",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-basics/sidebar",
-              "path": "/docs/Docusaurus/tutorial-basics/sidebar",
+              "id": "Documentation/Docusaurus/tutorial-basics/create-a-page",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/create-a-page",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-extras/manage-docs-versions",
-              "path": "/docs/Docusaurus/tutorial-extras/manage-docs-versions",
+              "id": "Documentation/Docusaurus/tutorial-basics/deploy-your-site",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/deploy-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Docusaurus/tutorial-extras/translate-your-site",
-              "path": "/docs/Docusaurus/tutorial-extras/translate-your-site",
+              "id": "Documentation/Docusaurus/tutorial-basics/markdown-features",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/markdown-features",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "UseCase/Analyse and improve test coverage",
-              "path": "/docs/UseCase/Analyse and improve test coverage",
+              "id": "Documentation/Docusaurus/tutorial-basics/sidebar",
+              "path": "/docs/Documentation/Docusaurus/tutorial-basics/sidebar",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "UseCase/Analyse test execution",
-              "path": "/docs/UseCase/Analyse test execution",
+              "id": "Documentation/Docusaurus/tutorial-extras/manage-docs-versions",
+              "path": "/docs/Documentation/Docusaurus/tutorial-extras/manage-docs-versions",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "UseCase/Generate a test case",
-              "path": "/docs/UseCase/Generate a test case",
+              "id": "Documentation/Docusaurus/tutorial-extras/translate-your-site",
+              "path": "/docs/Documentation/Docusaurus/tutorial-extras/translate-your-site",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "UseCase/Generate and analyse User Stories",
-              "path": "/docs/UseCase/Generate and analyse User Stories",
+              "id": "Documentation/Template cas usage",
+              "path": "/docs/Documentation/Template cas usage",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "UseCase/Generate API Automated tested",
-              "path": "/docs/UseCase/Generate API Automated tested",
+              "id": "Documentation/Template Tache de prompt",
+              "path": "/docs/Documentation/Template Tache de prompt",
               "sidebar": "tutorialSidebar"
             },
             {
               "id": "/category/documentation",
               "path": "/docs/category/documentation",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "/category/usecase-ia-and-test",
-              "path": "/docs/category/usecase-ia-and-test",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -118,6 +113,26 @@
             {
               "id": "/category/tutorial---extras",
               "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/activités",
+              "path": "/docs/category/activités",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/analyse",
+              "path": "/docs/category/analyse",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/conception",
+              "path": "/docs/category/conception",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/exécution",
+              "path": "/docs/category/exécution",
               "sidebar": "tutorialSidebar"
             }
           ],

@@ -8,7 +8,7 @@
   "permalink": "/docs/Documentation/Usecase Template",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Documentation/Usecase Template.md",
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Documentation/Usecase Template.md",
   "tags": [],
   "version": "current",
   "sidebarPosition": 2,
@@ -21,7 +21,7 @@
     "permalink": "/docs/Documentation/How to use"
   },
   "next": {
-    "title": "Prompt Task Template",
-    "permalink": "/docs/Documentation/Prompt Task Template"
+    "title": "How to use this documentation ?",
+    "permalink": "/docs/Documentation/Template Tache de prompt"
   }
 }

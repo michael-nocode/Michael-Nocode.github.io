@@ -1,0 +1,27 @@
+{
+  "id": "Activité de tests/Planification/Generate a test case",
+  "title": "Generate a Test case from user Stories",
+  "description": "Utiliser l'IA générative pour transformer automatiquement des User Stories exprimées en langage naturel en cas d'utilisation structurés (use cases), afin d'améliorer la compréhension fonctionnelle et la couverture des scénarios métier.",
+  "source": "@site/docs/Activité de tests/Planification/Generate a test case.md",
+  "sourceDirName": "Activité de tests/Planification",
+  "slug": "/Activité de tests/Planification/Generate a test case",
+  "permalink": "/docs/Activité de tests/Planification/Generate a test case",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Activité de tests/Planification/Generate a test case.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Planification",
+    "permalink": "/docs/category/planification"
+  },
+  "next": {
+    "title": "Analyse",
+    "permalink": "/docs/category/analyse"
+  }
+}

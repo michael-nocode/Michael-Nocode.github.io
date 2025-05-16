@@ -1,6 +1,6 @@
 {
   "id": "Documentation/Prompt Task Template",
-  "title": "Prompt Task Template",
+  "title": "How to use this documentation ?",
   "description": "",
   "source": "@site/docs/Documentation/Prompt Task Template.md",
   "sourceDirName": "Documentation",
@@ -8,17 +8,20 @@
   "permalink": "/docs/Documentation/Prompt Task Template",
   "draft": false,
   "unlisted": false,
-  "editUrl": "https://github.com/${organizationName}/${projectName}/tree/main/docs/Documentation/Prompt Task Template.md",
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Documentation/Prompt Task Template.md",
   "tags": [],
   "version": "current",
-  "frontMatter": {},
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
   "sidebar": "tutorialSidebar",
   "previous": {
     "title": "UseCase Template",
     "permalink": "/docs/Documentation/Usecase Template"
   },
   "next": {
-    "title": "UseCase IA and Test",
-    "permalink": "/docs/category/usecase-ia-and-test"
+    "title": "Tutorial Intro",
+    "permalink": "/docs/Documentation/Docusaurus/intro"
   }
 }
