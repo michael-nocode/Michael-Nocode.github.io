@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Conception",
-    "permalink": "/docs/category/conception"
+    "title": "Générer un cas de test à partir d'une US",
+    "permalink": "/docs/Activités/Conception/Generer un cas de tests V2"
   },
   "next": {
     "title": "Generer des tests API automatisé à partir d'un swagger",

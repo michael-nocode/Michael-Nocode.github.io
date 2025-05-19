@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-d29": {
+  "/docs-e4a": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-022": {
+  "/docs-0f2": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-097": {
+  "/docs-695": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Activités/Analyse des tests/Analyse and improve test coverage-8fb": {
@@ -277,6 +277,10 @@
   "/docs/Activités/Conception/Generer un cas de tests-bc1": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-activites-conception-generer-un-cas-de-tests-324-954"
+  },
+  "/docs/Activités/Conception/Generer un cas de tests V2-e90": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-activites-conception-generer-un-cas-de-tests-v-2-fa-4-396"
   },
   "/docs/Activités/Execution/Analyse test execution-7f1": {
     "__comp": "__comp---theme-doc-item-178-a40",

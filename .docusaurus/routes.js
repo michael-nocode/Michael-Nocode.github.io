@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'd29'),
+    component: ComponentCreator('/docs', 'e4a'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '022'),
+        component: ComponentCreator('/docs', '0f2'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '097'),
+            component: ComponentCreator('/docs', '695'),
             routes: [
               {
                 path: '/docs/Activités/Analyse des tests/Analyse and improve test coverage',
@@ -145,6 +145,12 @@ export default [
               {
                 path: '/docs/Activités/Conception/Generer un cas de tests',
                 component: ComponentCreator('/docs/Activités/Conception/Generer un cas de tests', 'bc1'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Activités/Conception/Generer un cas de tests V2',
+                component: ComponentCreator('/docs/Activités/Conception/Generer un cas de tests V2', 'e90'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
