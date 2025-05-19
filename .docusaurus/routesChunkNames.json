@@ -249,17 +249,17 @@
     },
     "content": "content---markdown-page-393-028"
   },
-  "/docs-e4a": {
+  "/docs-bdf": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-0f2": {
+  "/docs-641": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-695": {
+  "/docs-929": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/Activités/Analyse des tests/Analyse and improve test coverage-8fb": {
@@ -270,17 +270,13 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-activites-analyse-des-tests-generate-and-analyse-user-stories-6-ae-a84"
   },
-  "/docs/Activités/Conception/Generate API Automated tested-84b": {
+  "/docs/Activités/Conception/Generer des cas de tests-b3d": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-activites-conception-generate-api-automated-testedbea-83f"
+    "content": "content---docs-activites-conception-generer-des-cas-de-testsba-2-bfd"
   },
-  "/docs/Activités/Conception/Generer un cas de tests-bc1": {
+  "/docs/Activités/Conception/Generer un test API KARATE Auto-130": {
     "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-activites-conception-generer-un-cas-de-tests-324-954"
-  },
-  "/docs/Activités/Conception/Generer un cas de tests V2-e90": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-activites-conception-generer-un-cas-de-tests-v-2-fa-4-396"
+    "content": "content---docs-activites-conception-generer-un-test-api-karate-autob-17-9c6"
   },
   "/docs/Activités/Execution/Analyse test execution-7f1": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -305,14 +301,6 @@
   "/docs/category/exécution-f72": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
     "__props": "__props---docs-category-executionaf-6-1a8"
-  },
-  "/docs/category/générer-un-cas-de-test-à-partir-dune-us-f8d": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-generer-un-cas-de-test-a-partir-dune-us-64-b-f2b"
-  },
-  "/docs/category/tâches-de-prompts-47a": {
-    "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
-    "__props": "__props---docs-category-taches-de-prompts-9-f-5-82c"
   },
   "/docs/category/tutorial---basicss-c70": {
     "__comp": "__comp---theme-doc-category-generated-index-page-14-e-640",
@@ -373,18 +361,6 @@
   "/docs/Documentation/Template Tache de prompt-a20": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-documentation-template-tache-de-promptf-0-e-521"
-  },
-  "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_complexe-f3e": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prompt-prompt-generer-un-cas-de-test-prompt-complexe-17-a-59d"
-  },
-  "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant-862": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prompt-prompt-generer-un-cas-de-test-prompt-moyen-variant-1-a-1-88f"
-  },
-  "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple-248": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-prompt-prompt-generer-un-cas-de-test-prompt-simple-003-323"
   },
   "/-2e1": {
     "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",

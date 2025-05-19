@@ -1,7 +1,7 @@
 {
   "id": "Documentation/Comment créer une fiche",
-  "title": "Comment créer une fiche ?",
-  "description": "",
+  "title": "Comment créer une fiche cas d'usage ?",
+  "description": "Prompt pour mise en place d'un cas d'usage (inspiration)",
   "source": "@site/docs/Documentation/Comment créer une fiche.md",
   "sourceDirName": "Documentation",
   "slug": "/Documentation/Comment créer une fiche",

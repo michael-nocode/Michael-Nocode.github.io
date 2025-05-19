@@ -17,11 +17,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Générer un cas de test à partir d'une US",
-    "permalink": "/docs/Activités/Conception/Generer un cas de tests V2"
+    "title": "Conception",
+    "permalink": "/docs/category/conception"
   },
   "next": {
-    "title": "Generer des tests API automatisé à partir d'un swagger",
-    "permalink": "/docs/Activités/Conception/Generate API Automated tested"
+    "title": "Generer des tests API automatisé avec Karaté à partir d'un swagger",
+    "permalink": "/docs/Activités/Conception/Generer un test API KARATE Auto"
   }
 }

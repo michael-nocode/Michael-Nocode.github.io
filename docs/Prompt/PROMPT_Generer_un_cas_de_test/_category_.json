@@ -1,8 +1,0 @@
-{
-  "label": "Générer un cas de test à partir d'une US",
-  "position": 1,
-  "link": {
-    "type": "generated-index",
-    "description": "Prompts relatifs à la création de cas de tests"
-  }
-}

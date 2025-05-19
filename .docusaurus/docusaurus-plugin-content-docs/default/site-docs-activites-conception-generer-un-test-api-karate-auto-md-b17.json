@@ -1,0 +1,27 @@
+{
+  "id": "Activités/Conception/Generer un test API KARATE Auto",
+  "title": "Generer des tests API automatisé avec Karaté à partir d'un swagger",
+  "description": "A RELIRE",
+  "source": "@site/docs/Activités/Conception/Generer un test API KARATE Auto.md",
+  "sourceDirName": "Activités/Conception",
+  "slug": "/Activités/Conception/Generer un test API KARATE Auto",
+  "permalink": "/docs/Activités/Conception/Generer un test API KARATE Auto",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Activités/Conception/Generer un test API KARATE Auto.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Générer des cas de test à partir d'une US",
+    "permalink": "/docs/Activités/Conception/Generer des cas de tests"
+  },
+  "next": {
+    "title": "Exécution",
+    "permalink": "/docs/category/exécution"
+  }
+}
