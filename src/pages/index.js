@@ -19,8 +19,16 @@ function HomepageHeader() {
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/documentation">
-            Access to IA usecase
+            to="/docs/category/documentation">
+            Accéder à la documentation
+          </Link>
+        </div>
+        <br></br>
+        <div className={styles.buttons}>
+          <Link
+            className="button button--secondary button--lg"
+            to="/docs/category/Activités">
+            Accéder aux cas d'usages
           </Link>
         </div>
       </div>
@@ -32,8 +40,8 @@ export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hello from ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`IA dans le test`}
+      description="Groupe de travail du CFTL sur l'utilisation de l'IA dans le test">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

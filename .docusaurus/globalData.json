@@ -21,13 +21,13 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Activités/Conception/Generate a test case",
-              "path": "/docs/Activités/Conception/Generate a test case",
+              "id": "Activités/Conception/Generate API Automated tested",
+              "path": "/docs/Activités/Conception/Generate API Automated tested",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Activités/Conception/Generate API Automated tested",
-              "path": "/docs/Activités/Conception/Generate API Automated tested",
+              "id": "Activités/Conception/Generer un cas de tests",
+              "path": "/docs/Activités/Conception/Generer un cas de tests",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -101,6 +101,21 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "Prompt/PROMPT_Generer_un_cas_de_test/Prompt_complexe",
+              "path": "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_complexe",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant",
+              "path": "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple",
+              "path": "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "/category/documentation",
               "path": "/docs/category/documentation",
               "sidebar": "tutorialSidebar"
@@ -133,6 +148,16 @@
             {
               "id": "/category/exécution",
               "path": "/docs/category/exécution",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tâches-de-prompts",
+              "path": "/docs/category/tâches-de-prompts",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/générer-un-cas-de-test-à-partir-dune-us",
+              "path": "/docs/category/générer-un-cas-de-test-à-partir-dune-us",
               "sidebar": "tutorialSidebar"
             }
           ],

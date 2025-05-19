@@ -1,7 +1,7 @@
 {
   "id": "Documentation/Template Tache de prompt",
   "title": "Template tâche de prompt",
-  "description": "",
+  "description": "Utiliser ce template pour créer une nouvelle tâche de prompt",
   "source": "@site/docs/Documentation/Template Tache de prompt.md",
   "sourceDirName": "Documentation",
   "slug": "/Documentation/Template Tache de prompt",

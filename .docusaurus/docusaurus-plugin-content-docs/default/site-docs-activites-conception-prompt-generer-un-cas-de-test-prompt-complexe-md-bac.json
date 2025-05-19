@@ -1,0 +1,24 @@
+{
+  "id": "Activités/Conception/PROMPT_Generer_un_cas_de_test/Prompt_complexe",
+  "title": "Prompt_complexe",
+  "description": "",
+  "source": "@site/docs/Activités/Conception/PROMPT_Generer_un_cas_de_test/Prompt_complexe.md",
+  "sourceDirName": "Activités/Conception/PROMPT_Generer_un_cas_de_test",
+  "slug": "/Activités/Conception/PROMPT_Generer_un_cas_de_test/Prompt_complexe",
+  "permalink": "/docs/Activités/Conception/PROMPT_Generer_un_cas_de_test/Prompt_complexe",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Activités/Conception/PROMPT_Generer_un_cas_de_test/Prompt_complexe.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Generer des tests API automatisé à partir d'un swagger",
+    "permalink": "/docs/Activités/Conception/Generate API Automated tested"
+  },
+  "next": {
+    "title": "Prompt_moyen_variant",
+    "permalink": "/docs/Activités/Conception/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant"
+  }
+}

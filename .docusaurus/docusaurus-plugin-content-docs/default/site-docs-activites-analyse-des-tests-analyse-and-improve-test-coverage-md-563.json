@@ -1,6 +1,6 @@
 {
   "id": "Activités/Analyse des tests/Analyse and improve test coverage",
-  "title": "Analyse and improve test coverage",
+  "title": "Analyse et amélioration de la couverture de test",
   "description": "",
   "source": "@site/docs/Activités/Analyse des tests/Analyse and improve test coverage.md",
   "sourceDirName": "Activités/Analyse des tests",
@@ -17,7 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Generate and analyse User Stories",
+    "title": "Générer et analyser les User Stories",
     "permalink": "/docs/Activités/Analyse des tests/Generate and analyse User Stories"
   },
   "next": {

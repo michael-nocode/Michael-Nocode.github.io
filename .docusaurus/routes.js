@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a0a'),
+    component: ComponentCreator('/docs', 'd29'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', 'd83'),
+        component: ComponentCreator('/docs', '022'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '5ea'),
+            component: ComponentCreator('/docs', '097'),
             routes: [
               {
                 path: '/docs/Activités/Analyse des tests/Analyse and improve test coverage',
@@ -137,14 +137,14 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Activités/Conception/Generate a test case',
-                component: ComponentCreator('/docs/Activités/Conception/Generate a test case', 'c34'),
+                path: '/docs/Activités/Conception/Generate API Automated tested',
+                component: ComponentCreator('/docs/Activités/Conception/Generate API Automated tested', '84b'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Activités/Conception/Generate API Automated tested',
-                component: ComponentCreator('/docs/Activités/Conception/Generate API Automated tested', '84b'),
+                path: '/docs/Activités/Conception/Generer un cas de tests',
+                component: ComponentCreator('/docs/Activités/Conception/Generer un cas de tests', 'bc1'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -181,6 +181,18 @@ export default [
               {
                 path: '/docs/category/exécution',
                 component: ComponentCreator('/docs/category/exécution', 'f72'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/générer-un-cas-de-test-à-partir-dune-us',
+                component: ComponentCreator('/docs/category/générer-un-cas-de-test-à-partir-dune-us', 'f8d'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/category/tâches-de-prompts',
+                component: ComponentCreator('/docs/category/tâches-de-prompts', '47a'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -271,6 +283,24 @@ export default [
               {
                 path: '/docs/Documentation/Template Tache de prompt',
                 component: ComponentCreator('/docs/Documentation/Template Tache de prompt', 'a20'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_complexe',
+                component: ComponentCreator('/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_complexe', 'f3e'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant',
+                component: ComponentCreator('/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant', '862'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple',
+                component: ComponentCreator('/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple', '248'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

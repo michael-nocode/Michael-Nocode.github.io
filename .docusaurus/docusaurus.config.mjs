@@ -71,6 +71,12 @@ export default {
           "sidebarId": "tutorialSidebar",
           "label": "Activités de test",
           "position": "left"
+        },
+        {
+          "sidebarId": "tutorialSidebar",
+          "label": "Enquête IA 2024",
+          "href": "https://cftl.fr/actualites/jtia-2/",
+          "position": "left"
         }
       ],
       "hideOnScroll": false
@@ -108,12 +114,8 @@ export default {
           "title": "More",
           "items": [
             {
-              "label": "Blog",
-              "to": "/blog"
-            },
-            {
               "label": "GitHub",
-              "href": "https://github.com/michael-nocode"
+              "href": "https://github.com/michael-nocode/michael-nocode.github.io"
             }
           ]
         }

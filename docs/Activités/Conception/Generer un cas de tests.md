@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Generate a Test case from user Stories
+# Générer un cas de test à partir d'une US
 Utiliser l'IA générative pour transformer automatiquement des User Stories exprimées en langage naturel en cas d'utilisation structurés (use cases), afin d'améliorer la compréhension fonctionnelle et la couverture des scénarios métier.
 
 ## Problématique(s) traitée(s) 
@@ -61,3 +61,5 @@ Utiliser l'IA générative pour transformer automatiquement des User Stories exp
 - Retours d’expérience de la communauté (ex. Ministry of Testing, forums Agiles)
 
 ## Tâches associées
+
+[Prompt Simple](../../Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple)

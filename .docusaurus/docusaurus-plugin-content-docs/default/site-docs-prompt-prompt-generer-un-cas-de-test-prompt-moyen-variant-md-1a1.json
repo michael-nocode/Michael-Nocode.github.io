@@ -1,0 +1,24 @@
+{
+  "id": "Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant",
+  "title": "Prompt_moyen_variant",
+  "description": "",
+  "source": "@site/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant.md",
+  "sourceDirName": "Prompt/PROMPT_Generer_un_cas_de_test",
+  "slug": "/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant",
+  "permalink": "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/michael-nocode.github.io/tree/main/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_moyen_variant.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prompt_complexe",
+    "permalink": "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_complexe"
+  },
+  "next": {
+    "title": "Prompt_simple",
+    "permalink": "/docs/Prompt/PROMPT_Generer_un_cas_de_test/Prompt_simple"
+  }
+}

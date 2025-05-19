@@ -3,10 +3,10 @@ sidebar_position: 2
 ---
 
 # Template cas d'usage
-Use this template to create a Usecase file
+Utiliser ce template pour créer un nouveau cas d'usage
 
-# TITLE
-Make a explicit and precise title
+# TITRE
+Créer un titre explicit avec un verbe à l'infinitif + complément précis
 
 ## Problématique(s) traitée(s) 
 

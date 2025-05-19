@@ -1,6 +1,6 @@
 {
   "id": "Activités/Analyse des tests/Generate and analyse User Stories",
-  "title": "Generate and analyse User Stories",
+  "title": "Générer et analyser les User Stories",
   "description": "",
   "source": "@site/docs/Activités/Analyse des tests/Generate and analyse User Stories.md",
   "sourceDirName": "Activités/Analyse des tests",
@@ -21,7 +21,7 @@
     "permalink": "/docs/category/analyse"
   },
   "next": {
-    "title": "Analyse and improve test coverage",
+    "title": "Analyse et amélioration de la couverture de test",
     "permalink": "/docs/Activités/Analyse des tests/Analyse and improve test coverage"
   }
 }

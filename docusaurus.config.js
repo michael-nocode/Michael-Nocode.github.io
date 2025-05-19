@@ -98,6 +98,12 @@ const config = {
             label: 'Activités de test',
             position: 'left',
           },
+          {
+            sidebarId: 'tutorialSidebar',
+            label: 'Enquête IA 2024',
+            href: 'https://cftl.fr/actualites/jtia-2/',
+            position: 'left',
+          },
           /*{to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/${organizationName}',
@@ -138,13 +144,13 @@ const config = {
           {
             title: 'More',
             items: [
-              {
+              /*{
                 label: 'Blog',
                 to: '/blog',
-              },
+              },*/
               {
                 label: 'GitHub',
-                href: 'https://github.com/'+organizationName,
+                href: 'https://github.com/'+organizationName+'/'+projectName,
               },
             ],
           },

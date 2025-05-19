@@ -2,6 +2,6 @@
 sidebar_position: 5
 ---
 
-# Analyse test execution
+# Analyse des exécutions de tests
 
 Test test

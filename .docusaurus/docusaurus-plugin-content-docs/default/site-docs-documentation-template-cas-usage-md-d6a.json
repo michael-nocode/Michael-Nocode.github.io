@@ -1,7 +1,7 @@
 {
   "id": "Documentation/Template cas usage",
   "title": "Template cas d'usage",
-  "description": "Use this template to create a Usecase file",
+  "description": "Utiliser ce template pour créer un nouveau cas d'usage",
   "source": "@site/docs/Documentation/Template cas usage.md",
   "sourceDirName": "Documentation",
   "slug": "/Documentation/Template cas usage",

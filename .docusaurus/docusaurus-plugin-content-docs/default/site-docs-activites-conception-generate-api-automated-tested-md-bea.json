@@ -1,6 +1,6 @@
 {
   "id": "Activités/Conception/Generate API Automated tested",
-  "title": "Generate API Automated tested",
+  "title": "Generer des tests API automatisé à partir d'un swagger",
   "description": "ceci est un test",
   "source": "@site/docs/Activités/Conception/Generate API Automated tested.md",
   "sourceDirName": "Activités/Conception",
@@ -17,8 +17,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Generate a Test case from user Stories",
-    "permalink": "/docs/Activités/Conception/Generate a test case"
+    "title": "Générer un cas de test à partir d'une US",
+    "permalink": "/docs/Activités/Conception/Generer un cas de tests"
   },
   "next": {
     "title": "Exécution",
