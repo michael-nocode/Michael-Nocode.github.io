@@ -99,6 +99,12 @@ const config = {
             position: 'left',
           },
           {
+            to: '/docs/category/TutorielJFTL',
+            sidebarId: 'tutorialSidebar',
+            label: 'Tutoriels JFTL 2025',
+            position: 'left',
+          },
+          {
             sidebarId: 'tutorialSidebar',
             label: 'Enquête IA 2024',
             href: 'https://cftl.fr/actualites/jtia-2/',
