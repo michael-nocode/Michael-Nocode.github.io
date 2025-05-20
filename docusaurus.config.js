@@ -99,7 +99,7 @@ const config = {
             position: 'left',
           },
           {
-            to: '/docs/category/TutorielJFTL',
+            to: '/docs/category/Tutoriel',
             sidebarId: 'tutorialSidebar',
             label: 'Tutoriels JFTL 2025',
             position: 'left',
